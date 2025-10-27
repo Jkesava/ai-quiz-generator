@@ -1,0 +1,24 @@
+# Test URLs for AI Wiki Quiz Generator
+
+# Technology & Computer Science
+https://en.wikipedia.org/wiki/Alan_Turing
+https://en.wikipedia.org/wiki/Machine_learning
+https://en.wikipedia.org/wiki/Artificial_intelligence
+https://en.wikipedia.org/wiki/Blockchain
+
+# History
+https://en.wikipedia.org/wiki/World_War_II
+https://en.wikipedia.org/wiki/Renaissance
+https://en.wikipedia.org/wiki/Ancient_Egypt
+
+# Science
+https://en.wikipedia.org/wiki/Photosynthesis
+https://en.wikipedia.org/wiki/DNA
+https://en.wikipedia.org/wiki/Climate_change
+
+# Short articles (edge case testing)
+https://en.wikipedia.org/wiki/Hello_World
+
+# Long articles (edge case testing)
+https://en.wikipedia.org/wiki/Python_(programming_language)
+

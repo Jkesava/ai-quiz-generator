@@ -1,0 +1,40 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "title": "Alan Turing",
+  "summary": "Alan Turing was a British mathematician and computer scientist who made significant contributions to theoretical computer science, artificial intelligence, and cryptanalysis during World War II.",
+  "key_entities": {
+    "people": ["Alan Turing", "Alonzo Church", "Christopher Morcom"],
+    "organizations": ["University of Cambridge", "Bletchley Park", "National Physical Laboratory"],
+    "locations": ["United Kingdom", "Princeton", "Manchester"]
+  },
+  "sections": ["Early life and education", "Career and research", "Cryptanalysis", "Pattern formation and mathematical biology", "Personal life", "Death", "Recognition"],
+  "quiz": [
+    {
+      "question": "Where did Alan Turing study as an undergraduate?",
+      "options": [
+        "Harvard University",
+        "Cambridge University",
+        "Oxford University",
+        "Princeton University"
+      ],
+      "answer": "Cambridge University",
+      "difficulty": "easy",
+      "explanation": "Mentioned in the 'Early life and education' section that Turing studied at King's College, Cambridge."
+    },
+    {
+      "question": "What was Alan Turing's main contribution during World War II?",
+      "options": [
+        "Atomic bomb research",
+        "Breaking the Enigma code",
+        "Inventing radar technology",
+        "Developing jet engines"
+      ],
+      "answer": "Breaking the Enigma code",
+      "difficulty": "medium",
+      "explanation": "The 'Cryptanalysis' section details Turing's work at Bletchley Park breaking German Enigma-encrypted messages."
+    }
+  ],
+  "related_topics": ["Cryptography", "Enigma machine", "Computer science history", "Turing test", "Artificial intelligence"]
+}
+
